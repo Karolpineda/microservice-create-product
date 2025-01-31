@@ -7,6 +7,7 @@ const productRoutes = require("./routes/productRoutes");
 const app = express();
 
 // Enable CORS (with default or custom settings)
+app.use(cors());
 
 // Middleware to proceses JSON
 app.use(express.json());
