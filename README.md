@@ -20,11 +20,6 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes programas
 - [Visual Studio Code]
 - **Node.js**: La versión mínima recomendada es la 14.
 
-## Files in the Project
-
-- **Dockerfile**: Contains the configuration to build the Docker image with Go.
-- **main.go**: The Go file that creates a web server and serves the message "Hello, Docker! with Jimmy Maila".
-
 ## Dependencias
 
 - **Sequelize**: ORM para la interacción con la base de datos.
