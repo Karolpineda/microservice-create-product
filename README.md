@@ -49,3 +49,9 @@ After building the image, run the project with this command:
 npm run start
 ```
 The application will run at: http://localhost:8081
+
+## API Usage
+### Create a Product
+Endpoint: POST /api/products/
+
+This endpoint allows you to create a product in the database using the provided data.
