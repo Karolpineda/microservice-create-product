@@ -7,7 +7,7 @@ Este proyecto es un microservicio creada con Node.js-Express que permite elimina
 - Docker
 - Sequelize (ORM)
 - MySQL (para la base de datos)
-- 
+
 ## Descripción
 
 Este microservicio permite realizar operaciones CRUD sobre productos en una base de datos. El punto final principal que proporciona es para eliminar productos mediante el ID de un producto.
