@@ -50,8 +50,9 @@ En el directorio del proyecto, ejecuta el siguiente comando para construir la im
 npm run start
 
 ```
+La aplicación se ejecuta en: http://localhost:8081
 
-### Uso de la API
-## Crear un producto
-Endpoint: POST /api/products/
+## Uso de la API
+### Crear un producto
+Endpoint: POST /api/products/.
 Este endpoint permite crear un producto de la base de datos utilizando.
