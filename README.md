@@ -7,7 +7,7 @@ This project is a microservice created with Node.js and Express that allows you 
 - Docker
 - Sequelize (ORM)
 - MySQL (for the database)
-
+ 
 ## Description
 
 This microservice allows you to perform CRUD operations on products in a database. The main endpoint it provides is to **CREATE** products.
